@@ -6,7 +6,7 @@ I'm an Informatics Engineering student interested in web development, AI chatbot
 - 🎓 Informatics Engineering student
 - 💻 Interested in Web Development, AI Chatbot, RAG, and QA Testing
 - 🌱 Currently building my portfolio for remote work opportunities
-- 📫 Contact: gabriellarumapea.work@gmail.com
+- 📫 Contact: gabriellarue.work@gmail.com
 
 ## Tech Stack
 - HTML, CSS, JavaScript
