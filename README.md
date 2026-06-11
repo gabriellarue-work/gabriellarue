@@ -3,7 +3,7 @@
 I'm an Informatics Engineering student interested in web development, AI chatbot, RAG systems, and software testing.
 
 ## About Me
-- 🎓 Informatics Engineering student at ITERA
+- 🎓 Informatics Engineering student
 - 💻 Interested in Web Development, AI Chatbot, RAG, and QA Testing
 - 🌱 Currently building my portfolio for remote work opportunities
 - 📫 Contact: gabriellarumapea.work@gmail.com
@@ -15,9 +15,3 @@ I'm an Informatics Engineering student interested in web development, AI chatbot
 - Git & GitHub
 - Dify, Langfuse, RAG Evaluation
 - Google Sheets / Excel
-
-## Featured Projects
-- DIMA Chatbot RAG PMB ITERA
-- Roomtera Web App
-- Portfolio Website
-- Machine Learning / OpenCV Projects
